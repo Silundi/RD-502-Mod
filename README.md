@@ -11,4 +11,4 @@ The legendary RD-502, added to KSP with native RO/RSS and Waterfall support. Wat
 
     - Add better texturing to replace the current placeholder.
 
-    - Fix Waterfall Throttle FX
+    - Add Model Collider
